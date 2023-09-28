@@ -1,0 +1,70 @@
+/*Estilização do index.html */
+        .center{
+            text-align: center;
+            
+        }
+
+        .container{
+            display: flex;
+            flex-flow: row;
+            justify-content: center;
+            align-items: center;
+        }
+
+        #menu li{
+            display: inline;
+            padding: 6px;
+        }
+
+        #menu li a{
+            text-decoration: none;
+            color: black;
+
+        }
+        #menu li a:hover{
+            color:blanchedalmond;
+        }
+
+        .p-30{
+            padding: 30px;
+        }
+
+        .br-50 {
+            border-radius: 50%;
+        }
+
+        .wh-300 {
+            width: 300px;
+            height: 300px;
+        }
+
+        .Menu{
+            display: inline;
+            padding: 630px;
+            text-decoration: none;
+            color: black;
+        }
+        .Menu:hover{
+            color:blanchedalmond;
+
+        }
+
+        .tm-foto{
+            width: 300px;
+            height: 300px;
+        }
+
+        .tm-social{
+            width: 50px;
+            height: 50px;
+        }
+
+
+
+
+
+/*Estilização do contato.html */
+
+.ml-50{
+    margin-left: 50px;
+}
